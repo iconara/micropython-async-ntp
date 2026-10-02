@@ -7,7 +7,7 @@ import time
 
 from micropython import const
 
-host = 'pool.ntp.org'
+host = 'time.aws.com'
 
 MIN_NTP_TIMESTAMP = const(3913056000)
 
